@@ -77,6 +77,7 @@ document.querySelector('#clear').addEventListener('click', () => {
 });
 ```
 
+
 ## if문 중첩 줄이기
 1. if문 다음에 나오는 공통된 절차를 각 분기점 내부에 넣는다.
 2. 분기점에서 짧은 절차부터 실행하게 if문을 작성한다.
@@ -99,6 +100,7 @@ function test() {
    return result;
 }
 ```
+
 
 ## switch문을 if문으로 바꿨을 때
 ```javascript
