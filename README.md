@@ -1,1 +1,1 @@
-# TIL
+# STUDY
